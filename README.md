@@ -134,11 +134,11 @@ czyli mamy dwa punkty, nazwijmy je $A$ i $B$, ich współrzędne to $A(3, 14)$ o
 
 to po prostu zaznaczasz te 2 punkty
 
-![[Pasted image 20250313154727.png]]
+![](1.png)
 
 i robisz z nich prostą łącząc je i robiąc z tego długą kreskę linijką
 
-![[Pasted image 20250313154849.png]]
+![](2.png)
 
 no i tyle w temacie
 
